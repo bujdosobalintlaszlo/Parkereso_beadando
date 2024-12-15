@@ -1,1 +1,1 @@
-# Parkereso_beadando
+INSTALLALNI KELL A VEC-ES CUMOT NEVE: GoogleNews-vectors-negative300
