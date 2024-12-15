@@ -1,0 +1,2 @@
+Sentiment Polarity,Word2Vec Similarities,Most Common Theme,Punctuation Count,Paragraph Count,Vocabulary Richness,Average Sentence Length,Question Count,Dominant Emotion,Dominant Emotion Score,Word Density
+0.18178053830227747,career,wrapped,90,9,0.688715953307393,17.88095238095238,0,happiness,144.19432624505134,0.24327826368642697

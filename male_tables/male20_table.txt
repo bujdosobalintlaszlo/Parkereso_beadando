@@ -1,0 +1,2 @@
+Sentiment Polarity,Word2Vec Similarities,Most Common Theme,Punctuation Count,Paragraph Count,Vocabulary Richness,Average Sentence Length,Question Count,Dominant Emotion,Dominant Emotion Score,Word Density
+0.018238304093567248,family,yesterday,136,9,0.6266233766233766,15.046875,4,fear,172.8636449071928,0.2594288793103448

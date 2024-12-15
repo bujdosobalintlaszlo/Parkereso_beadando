@@ -1,0 +1,2 @@
+Sentiment Polarity,Word2Vec Similarities,Most Common Theme,Punctuation Count,Paragraph Count,Vocabulary Richness,Average Sentence Length,Question Count,Dominant Emotion,Dominant Emotion Score,Word Density
+0.12958126036484247,adventure,write,98,9,0.7083333333333334,17.227272727272727,5,fear,129.10098247084534,0.258879781420765

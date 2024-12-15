@@ -1,0 +1,2 @@
+Sentiment Polarity,Word2Vec Similarities,Most Common Theme,Punctuation Count,Paragraph Count,Vocabulary Richness,Average Sentence Length,Question Count,Dominant Emotion,Dominant Emotion Score,Word Density
+0.1309268426842684,family,zone,152,9,0.6892655367231638,17.06153846153846,4,fear,187.88998305780115,0.24411182038300683

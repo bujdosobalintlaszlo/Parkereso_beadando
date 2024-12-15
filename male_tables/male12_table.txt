@@ -1,0 +1,2 @@
+Sentiment Polarity,Word2Vec Similarities,Most Common Theme,Punctuation Count,Paragraph Count,Vocabulary Richness,Average Sentence Length,Question Count,Dominant Emotion,Dominant Emotion Score,Word Density
+0.07096908939014203,family,woman,64,6,0.7337278106508875,17.15625,0,fear,106.55622336428496,0.2589622641509434

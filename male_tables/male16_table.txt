@@ -1,0 +1,2 @@
+Sentiment Polarity,Word2Vec Similarities,Most Common Theme,Punctuation Count,Paragraph Count,Vocabulary Richness,Average Sentence Length,Question Count,Dominant Emotion,Dominant Emotion Score,Word Density
+0.08754789272030652,career,worst,113,8,0.6833976833976834,16.21153846153846,3,fear,141.6733522565337,0.25468277945619333

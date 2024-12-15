@@ -1,0 +1,2 @@
+Sentiment Polarity,Word2Vec Similarities,Most Common Theme,Punctuation Count,Paragraph Count,Vocabulary Richness,Average Sentence Length,Question Count,Dominant Emotion,Dominant Emotion Score,Word Density
+0.16635786435786434,family,years,97,9,0.6842105263157895,16.347826086956523,2,happiness,133.3849923517555,0.2457516339869281

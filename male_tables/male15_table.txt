@@ -1,0 +1,2 @@
+Sentiment Polarity,Word2Vec Similarities,Most Common Theme,Punctuation Count,Paragraph Count,Vocabulary Richness,Average Sentence Length,Question Count,Dominant Emotion,Dominant Emotion Score,Word Density
+0.09108501848227875,family,worst,111,9,0.6679389312977099,16.566037735849058,2,fear,149.2791657059861,0.25552968568102447
